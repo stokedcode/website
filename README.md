@@ -5,14 +5,6 @@ Company website of Stoked Code sp. z o.o. Plain HTML and CSS, no build step.
 - `public/` – the site (published as-is)
 - `.github/workflows/pages.yml` – deploys `public/` to GitHub Pages on every push to `main`
 
-## Local preview
-
-```sh
-docker compose up
-```
-
-Open http://localhost:8080.
-
 ## Local development
 
 ```sh
