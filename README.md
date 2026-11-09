@@ -13,6 +13,14 @@ docker compose up
 
 Open http://localhost:8080.
 
+## Local development
+
+```sh
+docker compose up -d
+```
+
+The site is available at http://localhost:8080.
+
 ## Hosting
 
 GitHub Pages (Settings → Pages → Source: GitHub Actions, Custom domain: `stokedcode.com`, Enforce HTTPS). DNS records at the registrar:
